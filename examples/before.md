@@ -1,0 +1,1 @@
+Hi Rob, quick update on the plugins. Things are going pretty well overall and most stuff is done, a few are still waiting on xAI and a couple are on hold, and I fixed some bugs this morning. Will have more soon. Let me know if you have questions.
