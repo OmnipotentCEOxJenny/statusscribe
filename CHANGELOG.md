@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.1 (2026-10-23)
+- Translations: each language section in TRANSLATIONS.md now starts with a one-line notice in that language saying it is a machine translation, not reviewed by a native speaker, and that the English version is authoritative. README Languages section notes this. No behavior changes.
+- Local tests re-run and passed. Not tested in-app. Not submitted to the marketplace.
+
 ## 1.0.0 (2026-10-22)
 - First version: skills `statusscribe-write` and `statusscribe-check`, rule `pillars-and-scope.mdc`, optional checker `scripts/statusscribe_check.py`, before-and-after example (real Course 4 memo), plain-language README.
 - Tests: `tests/check_frontmatter.py` and `tests/test_checker.py`.

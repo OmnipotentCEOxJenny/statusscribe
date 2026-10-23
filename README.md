@@ -54,7 +54,7 @@ StatusScribe, JennyEcho, OmnipotentCeo, status, update, updates, memo, memos, pr
 - `keywords.md`: the search keyword list.
 
 ## Languages
-The AI answers in the user's language and keeps commands, file names and code unchanged. Summaries in 23 languages are in [TRANSLATIONS.md](TRANSLATIONS.md). They are machine translations, not yet reviewed by native speakers; the English text is authoritative.
+The AI answers in the user's language and keeps commands, file names and code unchanged. Summaries in 23 languages are in [TRANSLATIONS.md](TRANSLATIONS.md). They are machine translations, not yet reviewed by native speakers; the English text is authoritative. Each language section in TRANSLATIONS.md also starts with a one-line machine-translation notice in that language.
 
 ## License
 MIT. See `LICENSE`.
