@@ -38,19 +38,13 @@ StatusScribe, JennyEcho, OmnipotentCeo, status, update, updates, memo, memos, pr
   - Suzan Last, *Technical Writing Essentials*, University of Victoria, 2019, CC BY 4.0 (Course 3: progress reports).
 - Summarized in our own words; StatusScribe is independent and not endorsed by the authors.
 
-## Rob Domaine's four pillars
-1. Trustworthy, honest, real data, truthful: never invent; anything unchecked is marked UNVERIFIED.
-2. Use only legitimate means: free, legitimate tools and sources only.
-3. Double-check everything: results are checked before they are called done.
-4. Stay within the law and rules always: local, county, state, federal and platform rules.
-
 ## Components
 - `skills/statusscribe-write`: write the update from the user's notes.
 - `skills/statusscribe-check`: check an update before sending.
 - `scripts/statusscribe_check.py`: optional automatic first pass (standard library only).
 - `examples/`: a vague update and a real memo.
 - `tests/`: front-matter check and functional checker test.
-- `rules/pillars-and-scope.mdc`: the pillars and scope.
+- `rules/scope.mdc`: the scope.
 - `keywords.md`: the search keyword list.
 
 ## Languages

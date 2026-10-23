@@ -3,7 +3,7 @@ name: statusscribe-write
 description: Write a clear status update, progress report, recap or memo from the user's notes. Use when a user asks for a status update, weekly update, progress report, memo, recap or handoff note.
 ---
 
-Follow `rules/pillars-and-scope.mdc`. Answer in the user's language.
+Follow `rules/scope.mdc`. Answer in the user's language.
 
 1. **Reader and purpose.** Who reads it (sponsor, team, client) and what they must do after reading.
 2. **Memo header** when it is a memo: TO and FROM with full name and title, DATE written in full (October 22, 2026), and a SUBJECT that earns the read by stating the headline ("6 await review, 2 held, all tests pass").

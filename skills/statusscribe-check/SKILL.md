@@ -3,7 +3,7 @@ name: statusscribe-check
 description: Check a status update or memo for missing parts, vague words, unchecked facts and times without a time zone. Use when a user asks to review or improve a status update, memo or progress report.
 ---
 
-Follow `rules/pillars-and-scope.mdc`. Answer in the user's language.
+Follow `rules/scope.mdc`. Answer in the user's language.
 
 1. Check the header (TO, FROM, DATE, SUBJECT), the full date and that every clock time names a time zone.
 2. Check the opening states the purpose and overall state.

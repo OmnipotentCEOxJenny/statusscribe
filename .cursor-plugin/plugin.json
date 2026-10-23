@@ -1,7 +1,7 @@
 {
   "name": "statusscribe",
   "displayName": "StatusScribe",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Free helper that lets your AI assistant write clear status updates and progress memos: what is done, what is next, what could go wrong, and what the reader needs to decide, then check them before you send.",
   "author": {
     "name": "Rob Domaine / Omnipotent Media LLC"
